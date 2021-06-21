@@ -1,2 +1,2 @@
-# Cryptography_Ciphers_Assignment
-It contains the Cipher implementation using python
+# Cryptography_Encryption_And_Decryption
+It contains the implementation of the Encryption and decryption techniques using python.
